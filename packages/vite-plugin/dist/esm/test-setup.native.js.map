@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/test-setup.ts"],
+  "mappings": "AAAA,OAAO;AAEP,SAAS,cAAc;AACvB,YAAY,cAAc;AAE1B,OAAO,OAAO,QAAQ;",
+  "names": []
+}
