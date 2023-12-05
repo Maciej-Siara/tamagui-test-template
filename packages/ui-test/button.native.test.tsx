@@ -15,11 +15,11 @@ function ButtonTest(props: React.ComponentProps<typeof Button>) {
   return (
     <TamaguiProvider config={conf} defaultTheme="light">
       <Stack></Stack>
-      <Stack>
+      {/* <Stack>
         <Button>
           <Button.Text>Test</Button.Text>
         </Button>
-      </Stack>
+      </Stack> */}
     </TamaguiProvider>
   )
 }
